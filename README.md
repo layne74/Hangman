@@ -27,6 +27,8 @@ Hangman is a simple word guessing game. You need to try to figure out an unknown
 
 Just keep guessing until you get the word right keeping the little man alive!
 
+There are +- 7000 words!!!
+
 PS: If you need help, there is a help button to get a brief description on how to play the game!
 
 Have fun!!
